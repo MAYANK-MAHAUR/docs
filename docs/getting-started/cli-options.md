@@ -42,7 +42,7 @@ The `gaianet init` command initializes the node according to the `$HOME/gaianet/
 * `gaianet init --config mua` will init a node with the MUA project knowledge.
 * `gaianet init --base <path>` will init a node in an alternative directory.
 
-You can also use `gaianet init url_your_config_json` to init your customized settings for the node. You can customize your node using the Gaia node link. If you're familiar with the Gaia config.json, you can create your own manually. See an example [here](https://github.com/GaiaNet-AI/gaianet-node/blob/main/config.json).
+You can also use `gaianet init <url_of_your_config.json>` to init your customized settings for the node. You can customize your node using the Gaia node link. If you're familiar with the Gaia config.json, you can create your own manually. See an example [here](https://github.com/GaiaNet-AI/gaianet-node/blob/main/config.json).
 
 ```
 gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/pure-llama-3-8b/config.json
