@@ -70,7 +70,7 @@ The solution is to run `gaianet stop`  first to kill all processes, and then run
 On Windows WSL, you may see this error when running `curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash`
 
 ```
-* Generate node IS
+* Generate node ID
 [2024-07-02 17:50:55.175] [error] loading failed: invalid path, Code: 0x20
 [2024-07-02 17:50:55.175] [error]   Load library failed: libgomp.so.1: cannot open shared object file: No such file or directory
 [2024-07-02 17:50:55.176] [error] loading failed: invalid path, Code: 0x20
