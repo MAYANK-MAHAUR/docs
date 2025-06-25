@@ -102,7 +102,7 @@ Once your node is successfully bound, you can proceed to join a Gaia Domain. The
 
 ### Steps to Join a Domain from the AI Agent Domains page
 
-The AI agent Domains page featured lots of domains various from crypto knowledge to useful tools. Each has options for "Chat Now" or "Join Now". You can click on "Join Now" to join that domain.
+The AI agent Domains page features lots of domains various from crypto knowledge to useful tools. Each has options for "Chat Now" or "Join Now". You can click on "Join Now" to join that domain.
 
 <img width="1406" alt="image" src="https://github.com/user-attachments/assets/6dbcc6fd-f6d8-452a-8e1c-2581bd637c9f" />
 
