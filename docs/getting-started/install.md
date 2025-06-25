@@ -88,7 +88,7 @@ Options:
   --reinstall        Install and download all required deps
   --tmpdir <Path>    Specify a path to the temporary directory [default: /tmp]
   --ggmlcuda [11/12] Install a specific CUDA enabled GGML plugin version [Possible values: 11, 12].
-  --enable-vector:   Install vector log aggregator
+  --enable-vector   Install vector log aggregator
   --version          Print version
   --help             Print usage
 ```
